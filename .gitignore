@@ -11,3 +11,4 @@ server_test.xml
 cypress/screenshots
 .vscode/
 yarn.lock
+cypress/fixtures
