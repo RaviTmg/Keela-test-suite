@@ -1,0 +1,12 @@
+{
+  "name": "kela-test-suite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}

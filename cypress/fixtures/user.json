@@ -1,0 +1,12 @@
+{
+    "email": "ravi.tamang@keela.com",
+    "password": "12345678",
+    "invalidemail": "asd@keela.com",
+    "invalidemail2": "dfg@keela.com",  
+    "invalidpassword": "invalidpassword",
+    "blankemail": "", 
+    "blankpassword": "",
+    "firstName": "Badal",
+    "lastName": " Shrestha"
+
+}
