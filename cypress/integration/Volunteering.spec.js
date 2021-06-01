@@ -63,4 +63,8 @@ describe('Create a new Volunteering Activity', () => {
 			//   cy.get("td").get(".font-w500").should("contain", activityName)
 		})
 	})
+
+  it('Should Verify', () => { 
+		cy.visit('https://dev.keela.co')
+  })
 })
