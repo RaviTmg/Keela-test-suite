@@ -1,1 +1,9 @@
-{}
+{
+    "baseUrl": "http://localhost:8080",
+    "loadTimout": 6000,
+    "viewportWidth": 1280,
+    "viewportHeight": 800,
+    "video": false,
+    "ignoreTestFiles": "true"
+  }
+  

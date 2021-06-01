@@ -1,6 +1,6 @@
 describe("Create a new Contact", () => {
   it("Should add a new Contact", () => {
-    const link = "Contacts";
+    const link = "Contact";
 
     cy.visit("https://dev.keela.co");
     cy.fixture("user").then((user) => {
@@ -11,6 +11,9 @@ describe("Create a new Contact", () => {
 
       cy.get('[data-tracking-input="contacts-PersonContacts-firstName"]').within(() => {
         cy.get("input").type(firstName);
+      });
+        cy.get('[data-tracking-input="contacts-PersonContacts-lastName"]').within(() => {
+        cy.get("input").type(lastName);
       });
       cy.get(".btn").contains("Save").click();
     });

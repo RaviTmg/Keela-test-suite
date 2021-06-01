@@ -1,12 +1,14 @@
 {
-    "email": "ravi.tamang@keela.com",
-    "password": "12345678",
+    "email": "qabadal11@gmail.com",
+    "password": "keela12345",
     "invalidemail": "asd@keela.com",
     "invalidemail2": "dfg@keela.com",  
     "invalidpassword": "invalidpassword",
     "blankemail": "", 
     "blankpassword": "",
-    "firstName": "Badal",
-    "lastName": " Shrestha"
+    "firstName": "Keela",
+    "lastName": "Fam",
+    "activityName": "New Activity",
+    "description" : "Hey!, I am doing automation."
 
 }
